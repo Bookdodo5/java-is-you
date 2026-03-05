@@ -37,3 +37,7 @@ If you don't have JavaFX, download it first before running.
 ## Hints
 
 Level hints are available at https://fearless-mascara-8d7.notion.site/Java-Is-Hint-318907b6fd93807db7b2e0e1e478b3a2
+
+## Preview
+
+You can watch the presentation video at https://youtu.be/HdFx5f9YEyg
