@@ -7,8 +7,8 @@ import java.util.Stack;
  */
 public class ActionStack {
 
-    Stack<CompositeAction> undoStack;
-    Stack<CompositeAction> redoStack;
+    private final Stack<CompositeAction> undoStack;
+    private final Stack<CompositeAction> redoStack;
 
     public ActionStack() {
         undoStack = new Stack<>();
